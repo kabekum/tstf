@@ -9,7 +9,7 @@ import './taks.dart';
 
 class TaskProvider with ChangeNotifier {
   static const String domain =
-      'https://tst-5mud.onrender.com/task-manager-api/';
+      'https://jurtemp.onrender.com/';
 
   List<Task> _tasks = [];
   String? email;
