@@ -10,7 +10,7 @@ import '../utils/http_exception.dart';
 
 class User with ChangeNotifier {
   static const String domain =
-      'https://filesharingbd.pythonanywhere.com/task-manager-api/';
+      'https://jurtemp.onrender.com/';
   String? email;
   String? token;
   Timer? logoutTimer;
